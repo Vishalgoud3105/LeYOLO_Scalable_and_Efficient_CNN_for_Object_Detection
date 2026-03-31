@@ -264,23 +264,6 @@ LeYOLO/
 
 ---
 
-## 🧑‍💻 Team
-
-**B.Tech in Artificial Intelligence and Machine Learning**
-J.B. Institute of Engineering & Technology, Hyderabad (2021–2025)
-
-| Name | Roll Number |
-|---|---|
-| C. Vishal | 21671A7311 |
-| D. Kishore | 21671A7313 |
-| M. Rathna Teja | 21671A7342 |
-| M. Varshith | 22675A7306 |
-
-**Guide:** Ms. Novera Habeeb, Assistant Professor  
-**Head of Department:** Dr. G. Arun Sampaul Thomas, Associate Professor
-
----
-
 ## 📚 References
 
 - Redmon et al., *You Only Look Once: Unified, Real-Time Object Detection*, CVPR 2016
