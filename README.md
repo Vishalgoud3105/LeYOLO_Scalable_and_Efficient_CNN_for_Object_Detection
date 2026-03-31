@@ -1,1 +1,0 @@
-# LeYOLO-Scalable-and-Efficient-CNN-for-Object-Detection-
